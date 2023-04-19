@@ -603,10 +603,10 @@ Assinque'l más calafrianti delos malis, la muerti, no senifica ná pa musotrus,
 Peru la genti ahuyi dela muerti, alas vezis comu si huera aquellu el peol delos malis, i, ala contra, otrus l'agarran comu si huera l'arremati alos malis dela vida.
 Peru la genti ahuyi dela muerti, alas vezis cumu si huera aquellu el peol delos malis, i, ala contra, otrus l'agarran cumu si huera l'arremati alos malis dela vida.
 Ai que revacal que, delos deseus, unus son naturalis i otrus baldíus; delos naturalis, los unus son precisus i los otrus naturalis namás; delos que son precisus, los unus son precisus pala felicidá i los otrus pala tranquilera del alma, mesmu pal propiu vivieru.
-Quantis que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
-Quantis que l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
-Quantis que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cona que compretal lo güenu del alma o del cuerpu.
-Quantis que l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cona que compretal lo güenu del alma o del cuerpu.
+En quanti que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
+En quanti que l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
+En quanti que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cona que compretal lo güenu del alma o del cuerpu.
+En quanti que l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cona que compretal lo güenu del alma o del cuerpu.
 Deque l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
 Deque l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
 Deque l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cona que compretal lo güenu del alma o del cuerpu.
@@ -1435,10 +1435,10 @@ Dí-vus pallá i escorcuñai a tó metel a tentu'l críu essi; deque l'encontrei
 Dí-vus pallá i escorcuñai a tó metel a tentu'l críu essi; en quanti que l'encontreis, vení-vus de güelta pacá pa izil-mi-lu.
 Dí-vus pallá i escorcuñai a tó metel a tentu'l críu essi; deque l'encontreis, vení-vus de güelta pacá pa dizil-mi-lu.
 Dí-vus pallá i escorcuñai a tó metel a tentu'l críu essi; en quanti que l'encontreis, vení-vus de güelta pacá pa dizil-mi-lu.
-En quantis qu'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, hata que s'aposó porcima'l briçu'l Messías.
-Dequ'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, hata que s'aposó porcima'l briçu'l Messías.
-En quantis qu'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, ata que s'aposó porcima'l briçu'l Messías.
-Dequ'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, ata que s'aposó porcima'l briçu'l Messías.
+En quanti qu'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, hata que s'aposó porcima'l briçu'l Messías.
+Deque oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, hata que s'aposó porcima'l briçu'l Messías.
+En quanti qu'oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, ata que s'aposó porcima'l briçu'l Messías.
+Deque oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, ata que s'aposó porcima'l briçu'l Messías.
 Deque s'atoparun al críu, se hincarun de roíllas i l'adorarun, i aluegu endispués brindarun a Jesús unus regalus, qu'eran oru, enciensu i milra.
 Deque s'atoparun al críu, se hincarun de roíllas i l'adorarun, i alogu endispués brindarun a Jesús unus regalus, qu'eran oru, enciensu i milra.
 En quanti que s'atoparun al críu, se hincarun de roíllas i l'adorarun, i aluegu endispués brindarun a Jesús unus regalus, qu'eran oru, enciensu i milra.
@@ -4318,3 +4318,33 @@ Tengu leíu muchus librus.
 Tengu leyíu muchus librus.
 Es almirabli el pelegrineu delos muchachus.
 Es almirabli el pelegrineu delos zagalis.
+Menúa tía pescueça es la Carmin.
+Menúa tía pescueça es la Carmin.
+De madrugá, un pocu de pacencia porque no ai ná.
+De mairugá, un pocu de pacencia porque no ai ná.
+Los premius s'arrepartirán sigún lo que caúnu mereça.
+Los premius s'arrepartirán sigún lo que caúnu mereça.
+Pa prencipial, vendrán unus músicus palas onzi.
+No s'obriga a naidi.
+Essu dizía yo alo primeru, lo sentí namás afinal de frasi.
+Essu izía yo alo primeru, lo sentí namás afinal de frasi.
+Dios los cría i l'airi los amontona.
+Aquellus bebían dun çamburriu de cincu litrus.
+En quanti se travessarun las mirás ya sabía qu'era la mi perdición.
+No tardarun ni dies segundus en venil-si pal cochi.
+No tardorin ni dies segundus en venil-si pal cochi.
+Me palran pa yo ajuntal-mi ala corrobra.
+Me habran pa yo ajuntal-mi ala corrobra.
+Sopongu que la bebía que produzin es un destilamientu delos cocus.
+Sabía a vinagri, conque yo decedí de peíl-mi otra San Miguel, qu'essa no falla.
+Sabía a vinagri, conque yo decedí de piíl-mi otra San Miguel, qu'essa no falla.
+Me despeí del amigu i la quadrilla dél.
+Me despeí del amigu i la su quadrilla.
+Aprovechei pa desfrutal dela postura del sol con tola praya pa mí.
+Aproveché pa desfrutal dela postura del sol con tola praya pa mí.
+Vidi un tigurón i dos ballenas.
+Vidi un tigurón i dos ballenas.
+Acabé perdíu en meyu duna praya a que s'acedía por un caminu estricau.
+Acabé perdíu en meyu duna praya a que s'acedía por un caminu estrechu.
+Acabei perdíu en meyu duna praya a que s'acedía por un caminu estricau.
+Acabei perdíu en meyu duna praya a que s'acedía por un caminu estrechu.
